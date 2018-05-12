@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '39591'
     url: http://www.gutenberg.org/2009/agents/39591
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14182#The-World-s-Best-Orations-Vol.-1--of-10-
 gutenberg_issued: '2004-11-27'
 gutenberg_type: Text
 identifiers:
